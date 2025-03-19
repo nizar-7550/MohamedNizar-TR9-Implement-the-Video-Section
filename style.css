@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgba(37, 53, 105, 0.678);
+}
+.h1 {
+  color: #fff;
+  padding: 50px;
+  font-weight: 600;
+}
+h1 {
+  font-size: 40px;
+}
+img {
+  margin: 15px;
+  padding: 20px;
+}
+.header {
+  margin: 60px;
+}
+span {
+  color: yellow;
+  font-size: 40px;
+  font-weight: 600;
+}
+.img2 {
+  margin-left: 42%;
+  margin-top: -450px;
+}
+.header p {
+  margin-left: 65%;
+  margin-top: -110px;
+  color: #fff;
+}
